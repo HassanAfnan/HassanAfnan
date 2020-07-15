@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with AR..
 - 💬 Ask me about anything related to programming
 - 📫 How to reach me: hassan4100348@cloud.neduet.edu.pk
-- ⚡ Fun fact: I donot code every time 😂😂
+- ⚡ Fun fact: I donot code everytime 😂😂
 
 
 
