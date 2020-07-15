@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **HassanAfnan/HassanAfnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything related to programming
 - 📫 How to reach me: hassan4100348@cloud.neduet.edu.pk
 - ⚡ Fun fact: I donot code every time 
--->
+
