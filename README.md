@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Asp.Net ,MVC ,Flutter  
+- 🔭 I’m currently working on Asp.Net ,MVC and Flutter  
 - 🌱 I’m currently learning React ,Node.js ,MongoDB and Typescript
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with AR..
