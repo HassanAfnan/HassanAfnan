@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Asp.Net ,MVC and Flutter  
-- 🌱 I’m currently learning React ,Node.js ,MongoDB and Typescript
+- 🌱 I’m currently learning Swift
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with AR..
 - 💬 Ask me about anything related to programming
