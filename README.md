@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Asp.Net ,MVC and Flutter  
+- 🔭 I’m currently working on Asp.Net ,MVC ,React Native and Flutter.  
 - 🌱 I’m currently learning Swift
 - 👯 I’m looking to collaborate on open source projects
 - 🔥 I'm Mern Stack Developer and Three js Expert
