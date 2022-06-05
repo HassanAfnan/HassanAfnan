@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I donot code everytime 😂😂
 - 📈 GitHub Stats
 
-[![Afnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HassanAfnan)](https://github.com/HassanAfnan/github-readme-stats)
+[![Afnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HassanAfnan&theme=radical)](https://github.com/HassanAfnan/github-readme-stats)
 
 
 
