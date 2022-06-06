@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 
 [![Afnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HassanAfnan&theme=radical)](https://github.com/HassanAfnan/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAfnan&layout=compact&theme=radical)](https://github.com/HassanAfnan/github-readme-stats)
 
-
+ Python Javascript VS Code Bootstrap NodeJS MySQL Unity Github Git Terminal Linux Windows 
