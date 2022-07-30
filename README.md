@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: hassan4100348@cloud.neduet.edu.pk
 - ⚡ Fun fact: I donot code everytime 😂😂
 - 📈 GitHub Stats
+
 [![Afnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HassanAfnan&theme=radical)](https://github.com/HassanAfnan/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAfnan&layout=compact&theme=radical)](https://github.com/HassanAfnan/github-readme-stats)
 
 ## 🧰 Languages and Tools:
@@ -31,7 +32,5 @@ Here are some ideas to get you started:
  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jenkins_logo_icon_167854.png" alt="Jenkins" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-
-[![Image of my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/207237845/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/207237845/week.md)
 
  
