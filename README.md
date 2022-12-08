@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything related to programming
 - 📫 How to reach me: hassan4100348@cloud.neduet.edu.pk
 - ⚡ Fun fact: I donot code everytime 😂😂
-- 📈 GitHub Stats
-
-[![Afnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HassanAfnan&theme=radical)](https://github.com/HassanAfnan/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAfnan&layout=compact&theme=radical)](https://github.com/HassanAfnan/github-readme-stats)
+<!-- - 📈 GitHub Stats -->
+<!-- 
+[![Afnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HassanAfnan&theme=radical)](https://github.com/HassanAfnan/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAfnan&layout=compact&theme=radical)](https://github.com/HassanAfnan/github-readme-stats) -->
 
 ## 🧰 Languages and Tools:
 <p align="center">
