@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I have proficiency over Django, Flask, Vue3, MERN Stack, MEVN Stack, and DevOps
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently working with Silicon Valley Startups
 - 👯 I’m looking to collaborate on open-source projects
 - 🤔 Need Help? I am here to guide you in every programming language.
 - 💬 Ask me about anything related to programming and I'll be your mentor.
