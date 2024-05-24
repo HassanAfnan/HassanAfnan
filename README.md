@@ -2,7 +2,7 @@
 ### Hi there 👋
 Here are some ideas to get you started:
 
-- 🔭 I have proficiency over Django, Flask, Vue3, MERN Stack, MEVN Stack, and DevOps
+- 🔭 I have proficiency in Flutter, React/React Native, Django, Flask, Swift, Vue3, MERN Stack, MEVN Stack, and DevOps
 - 🌱 I’m currently working with Silicon Valley Startups
 - 👯 I’m looking to collaborate on open-source projects
 - 🤔 Need Help? I am here to guide you in every programming language.
