@@ -2,12 +2,12 @@
 ### Hi there 👋
 Here are some ideas to get you started:
 
-- 🔭 I have proficiency in Flutter, React/React Native, Django, Flask, Swift, Vuejs, MERN Stack, MEVN Stack, and DevOps
+- 🔭 I have proficiency in Flutter, React and Django
 - 🌱 I’m currently working with Silicon Valley Startups
 - 👯 I’m looking to collaborate on open-source projects
 - 🤔 Need Help? I am here to guide you in every programming language.
 - 💬 Ask me about anything related to programming and I'll be your mentor.
-- 📫 How to reach me: Hassanafnan20@gmail.com
+- 📫 How to reach me: hassanafnan20@gmail.com
 - ⚡ Fun fact: I love to solve unsolved coding mysteries.
 ## 📈 GitHub Stats
 
