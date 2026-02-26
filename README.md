@@ -11,7 +11,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to solve unsolved coding mysteries.
 ## 📈 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HassanAfnan&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=HassanAfnan&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HassanAfnan&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanAfnan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🧰 Languages and Tools:
 
