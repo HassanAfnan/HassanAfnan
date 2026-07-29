@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 🤔 Need Help? I am here to guide you in every programming language.
 - 💬 Ask me about anything related to programming and I'll be your mentor.
 - 📫 How to reach me: hassanafnan20@gmail.com
+- 🌐 Portfolio: [afnan-hassan.web.app](https://afnan-hassan.web.app/)
 - ⚡ Fun fact: I love to solve unsolved coding mysteries.
 ## 📈 GitHub Stats
 
